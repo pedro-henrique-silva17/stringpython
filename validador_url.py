@@ -27,3 +27,16 @@ if not match:
     raise ValueError("A URL não é válida.")
 
 print("A URL é válida")
+
+
+
+
+
+
+
+
+
+
+
+
+
